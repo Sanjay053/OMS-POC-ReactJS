@@ -1,0 +1,11 @@
+.buy-container{
+    background-color: rgb(140, 186, 120);
+}
+
+.get-container{
+    background-color: rgba(140, 186, 120, 0.547);
+}
+
+.link{
+    text-decoration: none;
+}
